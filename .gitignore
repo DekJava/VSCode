@@ -1,3 +1,21 @@
 .obj/
 VSCode.sln
 VSCode.csproj
+bin/
+        obj/Debug/net8.0/VSCode.AssemblyInfoInputs.cache
+        obj/Debug/net8.0/VSCode.GeneratedMSBuildEditorConfig.editorconfig
+        obj/Debug/net8.0/VSCode.assets.cache
+        obj/Debug/net8.0/VSCode.csproj.CoreCompileInputs.cache
+        obj/Debug/net8.0/VSCode.csproj.FileListAbsolute.txt
+        obj/Debug/net8.0/VSCode.dll
+        obj/Debug/net8.0/VSCode.genruntimeconfig.cache
+        obj/Debug/net8.0/VSCode.pdb
+        obj/Debug/net8.0/VSCode.sourcelink.json
+        obj/Debug/net8.0/apphost.exe
+        obj/Debug/net8.0/ref/
+        obj/Debug/net8.0/refint/
+        obj/VSCode.csproj.nuget.dgspec.json
+        obj/VSCode.csproj.nuget.g.props
+        obj/VSCode.csproj.nuget.g.targets
+        obj/project.assets.json
+        obj/project.nuget.cache
