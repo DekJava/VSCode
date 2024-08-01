@@ -4,6 +4,28 @@
     {
       // Введите свое решение ниже
     
+    int max1, max2, result;
+
+    if(a > b){
+      max1 = a;
+    }
+    else{
+      max1 = b;
+    }
+
+    if(b > c){
+      max2 = b;
+    }
+    else{
+      max2 = c;
+    }
+
+    if(max1 > max2){
+      result = max1;
+    }
+    else{
+      result = max2;
+    }
 
 
     }
