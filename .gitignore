@@ -2,6 +2,7 @@ obj/
 VSCode.sln
 VSCode.csproj
 bin/
+deleted:
         obj/Debug/net8.0/VSCode.AssemblyInfoInputs.cache
         obj/Debug/net8.0/VSCode.GeneratedMSBuildEditorConfig.editorconfig
         obj/Debug/net8.0/VSCode.assets.cache
