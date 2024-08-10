@@ -7,3 +7,6 @@ Console.WriteLine(arr[1]);
 
 int[] array = new int[5] { 3, 5, 6, 1, 7 };
 int[] array2 = { 3, 6, 9, 12 };
+
+Console.WriteLine(array[4]);
+Console.WriteLine(array2[0]);
