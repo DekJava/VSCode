@@ -6,9 +6,9 @@ int number = Convert.ToInt32(System.Console.ReadLine());
 
 if(number % 7 == 0 && number % 23 == 0)
 {
-    System.Console.WriteLine("Число кратно 7 и 23");
+    System.Console.WriteLine($"а = {number} => Да");
 }
 else
 {
-    System.Console.WriteLine("Число НЕ кратно 7 и 23");
+    System.Console.WriteLine($"a = {number} => Нет");
 }
