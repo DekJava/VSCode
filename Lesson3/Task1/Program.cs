@@ -6,5 +6,5 @@
     return result;
 }
 
-double result = CalculateFormula(1, 2, 3, 4);
+double result = CalculateFormula(2, 2, 4, 4);
 Console.WriteLine(result);
